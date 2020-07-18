@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, glad to see you here,I'm genres17 👋
 
 <!--
 **genres17/genres17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on making a qqbot for PCR(Princess Connect Redive).
+- 🌱 I’m currently learning deep learning.
+- 🍞 Language:C++,Python are available here.
+- 🐺 Using IDE:Pycharm,VsCode and Eclipse.
+- ✨ Hobbies: Sing, Swimming and making friends.
+- 🌈 How to reach me:[Twitter](https://twitter.com/genres17).
+
+<img src="https://twitter.com/Yuni_0205/status/1282640942554509312/photo/1">
+
+
