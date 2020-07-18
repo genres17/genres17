@@ -1,7 +1,5 @@
 ### Hi, glad to see you here,I'm genres17 👋
 
-<!--
-**genres17/genres17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
