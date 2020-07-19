@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - ✨ Hobbies: Sing, Swimming and making friends.
 - 🌈 How to reach me:[Twitter](https://twitter.com/genres17).
 
-<img src="https://github.com/genres17/genres17/blob/master/EczbIxFU0AA7pJu.jpg">
+<img src="https://github.com/genres17/genres17/blob/master/EczbIxFU0AA7pJu.jpg",width=50%>
 
 
